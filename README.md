@@ -1,2 +1,2 @@
 # minimo_final
-This is a  psd to html project
+This is a  psd to html project name MINIMO
